@@ -1,0 +1,2 @@
+arrays=($(cat))
+echo ${arrays[@]}
