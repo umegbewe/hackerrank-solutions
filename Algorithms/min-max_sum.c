@@ -4,7 +4,7 @@ int main() {
     
     int n = 5;
     
-    int a[5];
+    int a[n];
     
     long sum = 0;
     
